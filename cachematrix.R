@@ -1,6 +1,6 @@
 ## Name: cachematrix.R
 ## This script contains a set of functions that calculates the inverse of
-## a matrix and supports caching of te results
+## a matrix and supports caching of the results
 
 ## Function: makeCacheMatrix
 ## This function takes a matrix as an input parameter. It returns an object that 
